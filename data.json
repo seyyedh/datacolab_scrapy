@@ -1,0 +1,709 @@
+{
+    "Garovaglio y Zorraquin SA ESG score (out of 100): 4": {
+        "title": "Garovaglio y Zorraquin SA ESG score (out of 100): 4",
+        "environment": "4",
+        "social": "1",
+        "governance": "11",
+        "rating": "373/375"
+    },
+    "Banco Hipotecario SA ESG score (out of 100): 65": {
+        "title": "Banco Hipotecario SA ESG score (out of 100): 65",
+        "environment": "18",
+        "social": "83",
+        "governance": "58",
+        "rating": "160/996"
+    },
+    "Distribuidora de Gas Cuyana SA ESG score (out of 100): 13": {
+        "title": "Distribuidora de Gas Cuyana SA ESG score (out of 100): 13",
+        "environment": "5",
+        "social": "9",
+        "governance": "30",
+        "rating": "54/57"
+    },
+    "Fairfax Financial Holdings Ltd ESG score (out of 100): 26": {
+        "title": "Fairfax Financial Holdings Ltd ESG score (out of 100): 26",
+        "environment": "6",
+        "social": "32",
+        "governance": "27",
+        "rating": "243/305"
+    },
+    "Pampa Energia SA ESG score (out of 100): 59": {
+        "title": "Pampa Energia SA ESG score (out of 100): 59",
+        "environment": "46",
+        "social": "52",
+        "governance": "91",
+        "rating": "81/263"
+    },
+    "Daqin Railway Co Ltd ESG score (out of 100): 24": {
+        "title": "Daqin Railway Co Ltd ESG score (out of 100): 24",
+        "environment": "29",
+        "social": "7",
+        "governance": "39",
+        "rating": "147/175"
+    },
+    "Gafisa SA ESG score (out of 100): 41": {
+        "title": "Gafisa SA ESG score (out of 100): 41",
+        "environment": "6",
+        "social": "43",
+        "governance": "81",
+        "rating": "85/157"
+    },
+    "Banco Patagonia SA ESG score (out of 100): 44": {
+        "title": "Banco Patagonia SA ESG score (out of 100): 44",
+        "environment": "27",
+        "social": "54",
+        "governance": "38",
+        "rating": "432/996"
+    },
+    "Banco ABC Brasil SA ESG score (out of 100): 14": {
+        "title": "Banco ABC Brasil SA ESG score (out of 100): 14",
+        "environment": "0",
+        "social": "11",
+        "governance": "24",
+        "rating": "958/996"
+    },
+    "First Majestic Silver Corp ESG score (out of 100): 58": {
+        "title": "First Majestic Silver Corp ESG score (out of 100): 58",
+        "environment": "55",
+        "social": "52",
+        "governance": "71",
+        "rating": "163/555"
+    },
+    "Capitol Health Ltd ESG score (out of 100): 34": {
+        "title": "Capitol Health Ltd ESG score (out of 100): 34",
+        "environment": "0",
+        "social": "34",
+        "governance": "50",
+        "rating": "116/181"
+    },
+    "Australia and New Zealand Banking Group Ltd ESG score (out of 100): 88": {
+        "title": "Australia and New Zealand Banking Group Ltd ESG score (out of 100): 88",
+        "environment": "65",
+        "social": "90",
+        "governance": "93",
+        "rating": "6/996"
+    },
+    "National Bank of Bahrain BSC ESG score (out of 100): 72": {
+        "title": "National Bank of Bahrain BSC ESG score (out of 100): 72",
+        "environment": "57",
+        "social": "74",
+        "governance": "75",
+        "rating": "105/996"
+    },
+    "Shaw Communications Inc ESG score (out of 100): 46": {
+        "title": "Shaw Communications Inc ESG score (out of 100): 46",
+        "environment": "46",
+        "social": "43",
+        "governance": "52",
+        "rating": "106/263"
+    },
+    "Bahrain Commercial Facilities Co BSC ESG score (out of 100): 19": {
+        "title": "Bahrain Commercial Facilities Co BSC ESG score (out of 100): 19",
+        "environment": "0",
+        "social": "10",
+        "governance": "39",
+        "rating": "917/996"
+    },
+    "CTEEP Companhia de Transmissao de Energia Eletrica Paulista ESG score (out of 100): 41": {
+        "title": "CTEEP Companhia de Transmissao de Energia Eletrica Paulista ESG score (out of 100): 41",
+        "environment": "23",
+        "social": "59",
+        "governance": "49",
+        "rating": "160/263"
+    },
+    "Kapsch Trafficcom AG ESG score (out of 100): 68": {
+        "title": "Kapsch Trafficcom AG ESG score (out of 100): 68",
+        "environment": "49",
+        "social": "80",
+        "governance": "67",
+        "rating": "16/124"
+    },
+    "Kawasaki Heavy Industries Ltd ESG score (out of 100): 64": {
+        "title": "Kawasaki Heavy Industries Ltd ESG score (out of 100): 64",
+        "environment": "69",
+        "social": "72",
+        "governance": "42",
+        "rating": "15/61"
+    },
+    "Cyrela Brazil Realty SA Empreendimentos e Participacoes ESG score (out of 100): 29": {
+        "title": "Cyrela Brazil Realty SA Empreendimentos e Participacoes ESG score (out of 100): 29",
+        "environment": "23",
+        "social": "41",
+        "governance": "22",
+        "rating": "291/400"
+    },
+    "NV Bekaert SA ESG score (out of 100): 65": {
+        "title": "NV Bekaert SA ESG score (out of 100): 65",
+        "environment": "58",
+        "social": "70",
+        "governance": "68",
+        "rating": "117/554"
+    },
+    "Eurazeo SE ESG score (out of 100): 73": {
+        "title": "Eurazeo SE ESG score (out of 100): 73",
+        "environment": "39",
+        "social": "74",
+        "governance": "82",
+        "rating": "33/375"
+    },
+    "Enel Generacion Costanera SA ESG score (out of 100): 67": {
+        "title": "Enel Generacion Costanera SA ESG score (out of 100): 67",
+        "environment": "59",
+        "social": "79",
+        "governance": "64",
+        "rating": "54/263"
+    },
+    "CESP Companhia Energetica de Sao Paulo ESG score (out of 100): 47": {
+        "title": "CESP Companhia Energetica de Sao Paulo ESG score (out of 100): 47",
+        "environment": "53",
+        "social": "44",
+        "governance": "39",
+        "rating": "133/263"
+    },
+    "Tap Oil Ltd ESG score (out of 100): 16": {
+        "title": "Tap Oil Ltd ESG score (out of 100): 16",
+        "environment": "7",
+        "social": "10",
+        "governance": "38",
+        "rating": "346/410"
+    },
+    "Gimv Investeringsmaatschappij Voor Vlanderen NV ESG score (out of 100): 44": {
+        "title": "Gimv Investeringsmaatschappij Voor Vlanderen NV ESG score (out of 100): 44",
+        "environment": "29",
+        "social": "47",
+        "governance": "46",
+        "rating": "185/375"
+    },
+    "Camuzzi Gas Pampeana SA ESG score (out of 100): 11": {
+        "title": "Camuzzi Gas Pampeana SA ESG score (out of 100): 11",
+        "environment": "3",
+        "social": "15",
+        "governance": "17",
+        "rating": "55/57"
+    },
+    "Siv Capital Ltd ESG score (out of 100): 13": {
+        "title": "Siv Capital Ltd ESG score (out of 100): 13",
+        "environment": "0",
+        "social": "18",
+        "governance": "16",
+        "rating": "414/443"
+    },
+    "Qantas Airways Ltd ESG score (out of 100): 72": {
+        "title": "Qantas Airways Ltd ESG score (out of 100): 72",
+        "environment": "68",
+        "social": "66",
+        "governance": "84",
+        "rating": "12/114"
+    },
+    "Qinghai Salt Lake Industry Co Ltd ESG score (out of 100): 33": {
+        "title": "Qinghai Salt Lake Industry Co Ltd ESG score (out of 100): 33",
+        "environment": "23",
+        "social": "16",
+        "governance": "78",
+        "rating": "219/326"
+    },
+    "Insurance Australia Group Ltd ESG score (out of 100): 78": {
+        "title": "Insurance Australia Group Ltd ESG score (out of 100): 78",
+        "environment": "41",
+        "social": "84",
+        "governance": "84",
+        "rating": "17/305"
+    },
+    "Ajinomoto Co Inc ESG score (out of 100): 78": {
+        "title": "Ajinomoto Co Inc ESG score (out of 100): 78",
+        "environment": "77",
+        "social": "87",
+        "governance": "65",
+        "rating": "29/375"
+    },
+    "Ackermans & Van Haaren NV ESG score (out of 100): 35": {
+        "title": "Ackermans & Van Haaren NV ESG score (out of 100): 35",
+        "environment": "51",
+        "social": "22",
+        "governance": "32",
+        "rating": "149/224"
+    },
+    "Navigator Global Investments Ltd ESG score (out of 100): 31": {
+        "title": "Navigator Global Investments Ltd ESG score (out of 100): 31",
+        "environment": "0",
+        "social": "42",
+        "governance": "30",
+        "rating": "268/375"
+    },
+    "Talaat Mostafa Group Holding Co SAE ESG score (out of 100): 19": {
+        "title": "Talaat Mostafa Group Holding Co SAE ESG score (out of 100): 19",
+        "environment": "0",
+        "social": "3",
+        "governance": "56",
+        "rating": "351/400"
+    },
+    "SA San Miguel AGICI y F ESG score (out of 100): 60": {
+        "title": "SA San Miguel AGICI y F ESG score (out of 100): 60",
+        "environment": "46",
+        "social": "64",
+        "governance": "67",
+        "rating": "116/375"
+    },
+    "SNC-Lavalin Group Inc ESG score (out of 100): 73": {
+        "title": "SNC-Lavalin Group Inc ESG score (out of 100): 73",
+        "environment": "82",
+        "social": "68",
+        "governance": "68",
+        "rating": "22/224"
+    },
+    "Village Roadshow Ltd ESG score (out of 100): 44": {
+        "title": "Village Roadshow Ltd ESG score (out of 100): 44",
+        "environment": "35",
+        "social": "33",
+        "governance": "69",
+        "rating": "150/322"
+    },
+    "Huhtamaki Oyj ESG score (out of 100): 82": {
+        "title": "Huhtamaki Oyj ESG score (out of 100): 82",
+        "environment": "76",
+        "social": "80",
+        "governance": "95",
+        "rating": "5/64"
+    },
+    "Omni Bridgeway Ltd ESG score (out of 100): 35": {
+        "title": "Omni Bridgeway Ltd ESG score (out of 100): 35",
+        "environment": "8",
+        "social": "37",
+        "governance": "42",
+        "rating": "599/996"
+    },
+    "Bahrain Kuwait Insurance Co BSC ESG score (out of 100): 13": {
+        "title": "Bahrain Kuwait Insurance Co BSC ESG score (out of 100): 13",
+        "environment": "0",
+        "social": "12",
+        "governance": "17",
+        "rating": "296/305"
+    },
+    "Nearmap Ltd ESG score (out of 100): 31": {
+        "title": "Nearmap Ltd ESG score (out of 100): 31",
+        "environment": "32",
+        "social": "35",
+        "governance": "27",
+        "rating": "529/813"
+    },
+    "Ledesma SAAI ESG score (out of 100): 46": {
+        "title": "Ledesma SAAI ESG score (out of 100): 46",
+        "environment": "56",
+        "social": "45",
+        "governance": "35",
+        "rating": "194/375"
+    },
+    "Praemium Ltd ESG score (out of 100): 26": {
+        "title": "Praemium Ltd ESG score (out of 100): 26",
+        "environment": "5",
+        "social": "44",
+        "governance": "15",
+        "rating": "26/34"
+    },
+    "Macmahon Holdings Ltd ESG score (out of 100): 49": {
+        "title": "Macmahon Holdings Ltd ESG score (out of 100): 49",
+        "environment": "46",
+        "social": "51",
+        "governance": "49",
+        "rating": "232/555"
+    },
+    "Carlos Casado SA ESG score (out of 100): 29": {
+        "title": "Carlos Casado SA ESG score (out of 100): 29",
+        "environment": "7",
+        "social": "35",
+        "governance": "44",
+        "rating": "272/375"
+    },
+    "Aurelia Metals Ltd ESG score (out of 100): 31": {
+        "title": "Aurelia Metals Ltd ESG score (out of 100): 31",
+        "environment": "19",
+        "social": "31",
+        "governance": "50",
+        "rating": "333/555"
+    },
+    "AMP Ltd ESG score (out of 100): 64": {
+        "title": "AMP Ltd ESG score (out of 100): 64",
+        "environment": "83",
+        "social": "59",
+        "governance": "63",
+        "rating": "61/375"
+    },
+    "Aluar Aluminio Argentino SAIC ESG score (out of 100): 20": {
+        "title": "Aluar Aluminio Argentino SAIC ESG score (out of 100): 20",
+        "environment": "20",
+        "social": "28",
+        "governance": "6",
+        "rating": "422/555"
+    },
+    "Shanghai Lujiazui Finance & Trade Zone Development Co Ltd ESG score (out of 100): 37": {
+        "title": "Shanghai Lujiazui Finance & Trade Zone Development Co Ltd ESG score (out of 100): 37",
+        "environment": "34",
+        "social": "41",
+        "governance": "36",
+        "rating": "242/400"
+    },
+    "Embraer SA ESG score (out of 100): 66": {
+        "title": "Embraer SA ESG score (out of 100): 66",
+        "environment": "59",
+        "social": "65",
+        "governance": "74",
+        "rating": "22/109"
+    },
+    "Transportadora de Gas del Norte SA ESG score (out of 100): 47": {
+        "title": "Transportadora de Gas del Norte SA ESG score (out of 100): 47",
+        "environment": "35",
+        "social": "45",
+        "governance": "66",
+        "rating": "102/219"
+    },
+    "Avic Shenyang Aircraft Co Ltd ESG score (out of 100): 21": {
+        "title": "Avic Shenyang Aircraft Co Ltd ESG score (out of 100): 21",
+        "environment": "31",
+        "social": "6",
+        "governance": "33",
+        "rating": "93/109"
+    },
+    "Winpak Ltd ESG score (out of 100): 35": {
+        "title": "Winpak Ltd ESG score (out of 100): 35",
+        "environment": "29",
+        "social": "34",
+        "governance": "44",
+        "rating": "50/64"
+    },
+    "Danakali Ltd ESG score (out of 100): 20": {
+        "title": "Danakali Ltd ESG score (out of 100): 20",
+        "environment": "10",
+        "social": "26",
+        "governance": "27",
+        "rating": "286/326"
+    },
+    "Dycasa SA ESG score (out of 100): 22": {
+        "title": "Dycasa SA ESG score (out of 100): 22",
+        "environment": "15",
+        "social": "25",
+        "governance": "28",
+        "rating": "196/224"
+    },
+    "Imax Corp ESG score (out of 100): 34": {
+        "title": "Imax Corp ESG score (out of 100): 34",
+        "environment": "5",
+        "social": "31",
+        "governance": "48",
+        "rating": "147/256"
+    },
+    "Molinos Juan Semino SA ESG score (out of 100): 11": {
+        "title": "Molinos Juan Semino SA ESG score (out of 100): 11",
+        "environment": "10",
+        "social": "8",
+        "governance": "16",
+        "rating": "351/375"
+    },
+    "Avic XiAn Aircraft Industry Group Co Ltd ESG score (out of 100): 32": {
+        "title": "Avic XiAn Aircraft Industry Group Co Ltd ESG score (out of 100): 32",
+        "environment": "18",
+        "social": "22",
+        "governance": "55",
+        "rating": "72/109"
+    },
+    "Cogna Educacao SA ESG score (out of 100): 58": {
+        "title": "Cogna Educacao SA ESG score (out of 100): 58",
+        "environment": "46",
+        "social": "40",
+        "governance": "83",
+        "rating": "7/31"
+    },
+    "Companhia de Saneamento Basico do Estado de Sao Paulo SABESP ESG score (out of 100): 51": {
+        "title": "Companhia de Saneamento Basico do Estado de Sao Paulo SABESP ESG score (out of 100): 51",
+        "environment": "40",
+        "social": "64",
+        "governance": "53",
+        "rating": "15/38"
+    },
+    "Telecom Argentina SA ESG score (out of 100): 67": {
+        "title": "Telecom Argentina SA ESG score (out of 100): 67",
+        "environment": "63",
+        "social": "75",
+        "governance": "53",
+        "rating": "50/263"
+    },
+    "Companhia Paranaense de Energia ESG score (out of 100): 84": {
+        "title": "Companhia Paranaense de Energia ESG score (out of 100): 84",
+        "environment": "92",
+        "social": "87",
+        "governance": "64",
+        "rating": "7/263"
+    },
+    "Transportadora de Gas del Sur SA ESG score (out of 100): 59": {
+        "title": "Transportadora de Gas del Sur SA ESG score (out of 100): 59",
+        "environment": "46",
+        "social": "68",
+        "governance": "62",
+        "rating": "95/410"
+    },
+    "Washington H Soul Pattinson and Company Ltd ESG score (out of 100): 34": {
+        "title": "Washington H Soul Pattinson and Company Ltd ESG score (out of 100): 34",
+        "environment": "4",
+        "social": "34",
+        "governance": "76",
+        "rating": "31/55"
+    },
+    "Maple Leaf Foods Inc ESG score (out of 100): 62": {
+        "title": "Maple Leaf Foods Inc ESG score (out of 100): 62",
+        "environment": "58",
+        "social": "65",
+        "governance": "61",
+        "rating": "104/375"
+    },
+    "Euronav NV ESG score (out of 100): 57": {
+        "title": "Euronav NV ESG score (out of 100): 57",
+        "environment": "60",
+        "social": "31",
+        "governance": "89",
+        "rating": "64/219"
+    },
+    "MetroGAS SA ESG score (out of 100): 43": {
+        "title": "MetroGAS SA ESG score (out of 100): 43",
+        "environment": "28",
+        "social": "38",
+        "governance": "74",
+        "rating": "32/57"
+    },
+    "Avecho Biotechnology Ltd ESG score (out of 100): 21": {
+        "title": "Avecho Biotechnology Ltd ESG score (out of 100): 21",
+        "environment": "0",
+        "social": "36",
+        "governance": "22",
+        "rating": "425/538"
+    },
+    "Abacus Property Group ESG score (out of 100): 71": {
+        "title": "Abacus Property Group ESG score (out of 100): 71",
+        "environment": "90",
+        "social": "75",
+        "governance": "46",
+        "rating": "49/452"
+    },
+    "Panoramic Resources Ltd ESG score (out of 100): 19": {
+        "title": "Panoramic Resources Ltd ESG score (out of 100): 19",
+        "environment": "9",
+        "social": "23",
+        "governance": "26",
+        "rating": "437/555"
+    },
+    "Per Aarsleff Holding A/S ESG score (out of 100): 45": {
+        "title": "Per Aarsleff Holding A/S ESG score (out of 100): 45",
+        "environment": "28",
+        "social": "66",
+        "governance": "39",
+        "rating": "109/224"
+    },
+    "Galaxy Resources Ltd ESG score (out of 100): 50": {
+        "title": "Galaxy Resources Ltd ESG score (out of 100): 50",
+        "environment": "26",
+        "social": "62",
+        "governance": "64",
+        "rating": "224/555"
+    },
+    "Shanghai AJ Group Co Ltd ESG score (out of 100): 9": {
+        "title": "Shanghai AJ Group Co Ltd ESG score (out of 100): 9",
+        "environment": "0",
+        "social": "13",
+        "governance": "8",
+        "rating": "365/375"
+    },
+    "Morixe Hermanos SACI ESG score (out of 100): 6": {
+        "title": "Morixe Hermanos SACI ESG score (out of 100): 6",
+        "environment": "0",
+        "social": "6",
+        "governance": "14",
+        "rating": "367/375"
+    },
+    "Mercadolibre Inc ESG score (out of 100): 54": {
+        "title": "Mercadolibre Inc ESG score (out of 100): 54",
+        "environment": "63",
+        "social": "77",
+        "governance": "31",
+        "rating": "191/813"
+    },
+    "Mahle Metal Leve SA ESG score (out of 100): 31": {
+        "title": "Mahle Metal Leve SA ESG score (out of 100): 31",
+        "environment": "49",
+        "social": "31",
+        "governance": "6",
+        "rating": "172/231"
+    },
+    "Banco Macro SA ESG score (out of 100): 55": {
+        "title": "Banco Macro SA ESG score (out of 100): 55",
+        "environment": "55",
+        "social": "63",
+        "governance": "45",
+        "rating": "254/996"
+    },
+    "Silver Lake Resources Ltd ESG score (out of 100): 12": {
+        "title": "Silver Lake Resources Ltd ESG score (out of 100): 12",
+        "environment": "5",
+        "social": "12",
+        "governance": "24",
+        "rating": "496/555"
+    },
+    "Alterity Therapeutics Ltd ESG score (out of 100): 31": {
+        "title": "Alterity Therapeutics Ltd ESG score (out of 100): 31",
+        "environment": "0",
+        "social": "58",
+        "governance": "27",
+        "rating": "242/538"
+    },
+    "Companhia Brasileira de Distribuicao ESG score (out of 100): 70": {
+        "title": "Companhia Brasileira de Distribuicao ESG score (out of 100): 70",
+        "environment": "66",
+        "social": "73",
+        "governance": "69",
+        "rating": "25/151"
+    },
+    "Holcim Argentina SA ESG score (out of 100): 67": {
+        "title": "Holcim Argentina SA ESG score (out of 100): 67",
+        "environment": "59",
+        "social": "79",
+        "governance": "63",
+        "rating": "17/85"
+    },
+    "Loblaw Companies Ltd ESG score (out of 100): 76": {
+        "title": "Loblaw Companies Ltd ESG score (out of 100): 76",
+        "environment": "74",
+        "social": "76",
+        "governance": "76",
+        "rating": "15/151"
+    },
+    "Maanshan Iron & Steel Co Ltd ESG score (out of 100): 60": {
+        "title": "Maanshan Iron & Steel Co Ltd ESG score (out of 100): 60",
+        "environment": "68",
+        "social": "44",
+        "governance": "74",
+        "rating": "155/555"
+    },
+    "Bendigo and Adelaide Bank Ltd ESG score (out of 100): 58": {
+        "title": "Bendigo and Adelaide Bank Ltd ESG score (out of 100): 58",
+        "environment": "80",
+        "social": "56",
+        "governance": "52",
+        "rating": "230/996"
+    },
+    "Klabin SA ESG score (out of 100): 70": {
+        "title": "Klabin SA ESG score (out of 100): 70",
+        "environment": "85",
+        "social": "78",
+        "governance": "34",
+        "rating": "14/74"
+    },
+    "MOL Magyar Olajes Gazipari Nyrt ESG score (out of 100): 65": {
+        "title": "MOL Magyar Olajes Gazipari Nyrt ESG score (out of 100): 65",
+        "environment": "69",
+        "social": "76",
+        "governance": "38",
+        "rating": "62/410"
+    },
+    "MaxiTRANS Industries Ltd ESG score (out of 100): 19": {
+        "title": "MaxiTRANS Industries Ltd ESG score (out of 100): 19",
+        "environment": "0",
+        "social": "20",
+        "governance": "41",
+        "rating": "206/231"
+    },
+    "Ainsworth Game Technology Ltd ESG score (out of 100): 23": {
+        "title": "Ainsworth Game Technology Ltd ESG score (out of 100): 23",
+        "environment": "6",
+        "social": "22",
+        "governance": "41",
+        "rating": "251/322"
+    },
+    "Bahrain Duty Free Shop Complex BSC ESG score (out of 100): 15": {
+        "title": "Bahrain Duty Free Shop Complex BSC ESG score (out of 100): 15",
+        "environment": "0",
+        "social": "12",
+        "governance": "36",
+        "rating": "95/100"
+    },
+    "Bajaj Finance Ltd ESG score (out of 100): 27": {
+        "title": "Bajaj Finance Ltd ESG score (out of 100): 27",
+        "environment": "13",
+        "social": "26",
+        "governance": "34",
+        "rating": "779/996"
+    },
+    "EML Payments Ltd ESG score (out of 100): 34": {
+        "title": "EML Payments Ltd ESG score (out of 100): 34",
+        "environment": "0",
+        "social": "28",
+        "governance": "67",
+        "rating": "266/443"
+    },
+    "Australian Ethical Investment Ltd ESG score (out of 100): 60": {
+        "title": "Australian Ethical Investment Ltd ESG score (out of 100): 60",
+        "environment": "69",
+        "social": "73",
+        "governance": "46",
+        "rating": "85/375"
+    },
+    "Mirgor SACIFIA ESG score (out of 100): 10": {
+        "title": "Mirgor SACIFIA ESG score (out of 100): 10",
+        "environment": "5",
+        "social": "17",
+        "governance": "1",
+        "rating": "104/110"
+    },
+    "Sao Martinho SA ESG score (out of 100): 51": {
+        "title": "Sao Martinho SA ESG score (out of 100): 51",
+        "environment": "58",
+        "social": "49",
+        "governance": "48",
+        "rating": "164/375"
+    },
+    "Sociedad Comercial del Plata SA ESG score (out of 100): 13": {
+        "title": "Sociedad Comercial del Plata SA ESG score (out of 100): 13",
+        "environment": "0",
+        "social": "12",
+        "governance": "35",
+        "rating": "360/410"
+    },
+    "Cresud SACIF y A ESG score (out of 100): 44": {
+        "title": "Cresud SACIF y A ESG score (out of 100): 44",
+        "environment": "55",
+        "social": "20",
+        "governance": "72",
+        "rating": "210/375"
+    },
+    "Whitehaven Coal Ltd ESG score (out of 100): 51": {
+        "title": "Whitehaven Coal Ltd ESG score (out of 100): 51",
+        "environment": "33",
+        "social": "48",
+        "governance": "79",
+        "rating": "17/55"
+    },
+    "Clinuvel Pharmaceuticals Ltd ESG score (out of 100): 34": {
+        "title": "Clinuvel Pharmaceuticals Ltd ESG score (out of 100): 34",
+        "environment": "0",
+        "social": "46",
+        "governance": "42",
+        "rating": "187/376"
+    },
+    "Equitable Group Inc ESG score (out of 100): 55": {
+        "title": "Equitable Group Inc ESG score (out of 100): 55",
+        "environment": "17",
+        "social": "47",
+        "governance": "80",
+        "rating": "255/996"
+    },
+    "Etablissementen Franz Colruyt NV ESG score (out of 100): 55": {
+        "title": "Etablissementen Franz Colruyt NV ESG score (out of 100): 55",
+        "environment": "87",
+        "social": "56",
+        "governance": "28",
+        "rating": "55/151"
+    },
+    "": {
+        "title": "",
+        "environment": "",
+        "social": "",
+        "governance": "",
+        "rating": ""
+    }
+}
